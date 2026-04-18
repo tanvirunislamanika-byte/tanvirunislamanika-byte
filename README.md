@@ -1,4 +1,4 @@
-[https://jmgbb.com/i/y9ljA6Dc6w)](https://look.jmgbb.com/images/QySLO5MmEC.png)
+![image](https://raw.githubusercontent.com/username/repo-name/main/image.png)
 ## Hi there 👋
 - 🔭 I’m currently working on web development project
 - 🌱 I’m currently learning React
