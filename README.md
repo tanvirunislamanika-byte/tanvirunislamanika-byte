@@ -1,4 +1,4 @@
-[https://www.freepik.com/premium-vector/worker-man-developer-web_20203334.htm#fromView=keyword&page=1&position=7&uuid=e04c75e2-816a-454a-9c47-66865621e4d0&query=Web+developer](https://jmgbb.com/i/y9ljA6Dc6w)
+https://jmgbb.com/i/y9ljA6Dc6w)
 ## Hi there 👋
 - 🔭 I’m currently working on web development project
 - 🌱 I’m currently learning React
