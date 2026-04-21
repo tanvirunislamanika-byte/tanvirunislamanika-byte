@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/username/repo-name/main/image.png)
+[![image](https://raw.githubusercontent.com/username/repo-name/main/image.png)](https://www.freepik.com/free-photos-vectors/financial-advisor-background)
 ## Hi there 👋
 - 🔭 I’m currently working on web development project
 - 🌱 I’m currently learning React
