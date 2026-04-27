@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/username/repo-name/main/image.png)](https://www.freepik.com/free-photos-vectors/financial-advisor-background)
+[![Banner][(https://raw.githubusercontent.com/username/repo-name/main/image.png)](https://www.freepik.com/free-photos-vectors/financial-advisor-background)](https://www.freepik.com/free-photo/flat-lay-black-background-with-laptop-coffee-cup-calculator-top-view_47862820.htm#fromView=keyword&page=1&position=2&uuid=51e9f4c9-ecbb-4774-9a9d-7de7f9754178&query=Financial+advisor+background)
 ## Hi there 👋
 - 🔭 I’m currently working on web development project
 - 🌱 I’m currently learning React
