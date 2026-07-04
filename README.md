@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/username/repo-name/main/image.png)](https://github.com/username)
+[![Banner](https://raw.githubusercontent.com/tanvirunislamanika-byte/tanvirunislamanika-byte/main/image.png)](https://github.com/username)
 ## Hi there 👋
 - 🔭 I’m currently working on web development project
 - 🌱 I’m currently learning React
