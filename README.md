@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/tanvirunislamanika-byte/tanvirunislamanika-byte/main/ChatGPT Image Jul 7, 2026, 09_58_37 PM.png)](https://github.com/tanvirunislamanika-byte)
+[![Banner](https://raw.githubusercontent.com/tanvirunislamanika-byte/tanvirunislamanika-byte/main/tanvi.png)](https://github.com/tanvirunislamanika-byte)
 ## Hi there 👋
 - 🔭 I’m currently working on web development project
 - 🌱 I’m currently learning React
